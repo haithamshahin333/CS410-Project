@@ -1,6 +1,6 @@
 # CS410 Project
 
-Author: Haitham Shahin - hshahin2@illinois.edu
+Author/Captain: Haitham Shahin - hshahin2@illinois.edu
 
 Theme: Intelligent Learning Platform
 
