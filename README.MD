@@ -3,4 +3,5 @@
 ## Theme: Intelligent Learning Platform
 ## Topic: Technical IT Learning Assistant
 
-# Project Proposal
+# Assignments
+- [Project Proposal](./project-proposal.pdf)
