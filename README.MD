@@ -8,3 +8,4 @@ Topic: Technical IT Learning Assistant
 
 # Assignments
 - [Project Proposal](./project-proposal.pdf)
+- [Progress Report](./progress-report.pdf)
