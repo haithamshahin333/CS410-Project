@@ -8,6 +8,18 @@ Topic: Technical IT Learning Assistant
 
 Name: Tech Chat Assistant
 
+# Software Usage Tutorial Presentation
+
+Be sure to watch the following in 1080:
+
+[High Level Software Usage Tutorial Overview](https://www.youtube.com/watch?v=vQQ_wVLecmc) - https://www.youtube.com/watch?v=vQQ_wVLecmc
+
+[![Software Usage Tutorial Overview](https://img.youtube.com/vi/vQQ_wVLecmc/hqdefault.jpg)](https://www.youtube.com/watch?v=vQQ_wVLecmc)
+
+[Deep Dive Software Usage, Installation, and Deployment Overview](https://www.youtube.com/watch?v=BuHg84Tldag) - https://www.youtube.com/watch?v=BuHg84Tldag
+
+[![Deep Dive Software Usage](https://img.youtube.com/vi/BuHg84Tldag/hqdefault.jpg)](https://www.youtube.com/watch?v=BuHg84Tldag)
+
 # Overview of Function of Code
 
 This repository is designed to deploy a GPT-Enabled Tech Chat Assistant in Azure that can answer questions based on internal technical documentation unique to a specific enterprise. 
@@ -61,6 +73,10 @@ Below are all the components needed to run this app and associated implementatio
 > Currently, the [Azure OpenAI](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview) is [not available to personal accounts for use](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/limited-access). Thus, you may not be able to deploy the system on your own currently until this limitation is lifted. For now, you can review the video of the full deployment to see it live and understand how the system works.
 
 Please follow the full [Deploy Guide](./DEPLOY.MD) to view all the requirements for installation and deployment if you have access to an enterprise subscription.
+
+Here is also a video walking through the full deployment:
+
+[![Deep Dive Software Usage](https://img.youtube.com/vi/BuHg84Tldag/hqdefault.jpg)](https://www.youtube.com/watch?v=BuHg84Tldag)
 
 Take note that this solution uses Microsoft Azure Cloud and will incur fees, so please remove the solution once complete so you can save on costs. If new to Azure, your subscription should start with $200 free credit as noted [here](https://azure.microsoft.com/en-us/free/search/?ef_id=_k_EAIaIQobChMImf2vuJeGgwMVyUdyCh3TkgzLEAAYASAAEgJzZfD_BwE_k_&OCID=AIDcmmfq865whp_SEM__k_EAIaIQobChMImf2vuJeGgwMVyUdyCh3TkgzLEAAYASAAEgJzZfD_BwE_k_&gad_source=1&gclid=EAIaIQobChMImf2vuJeGgwMVyUdyCh3TkgzLEAAYASAAEgJzZfD_BwE#all-free-services).
 

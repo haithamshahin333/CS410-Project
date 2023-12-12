@@ -2,6 +2,10 @@
 
 The guide below walks through the deployment of this Tech Chat Assistant in Azure. Please follow all steps below in order.
 
+## Deployment Walkthrough Video:
+
+[![Deep Dive Software Usage](https://img.youtube.com/vi/BuHg84Tldag/hqdefault.jpg)](https://www.youtube.com/watch?v=BuHg84Tldag)
+
 ## Pre-Requisites:
 
 Before starting, please ensure you have all the following:
