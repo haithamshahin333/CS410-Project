@@ -12,11 +12,11 @@ Name: Tech Chat Assistant
 
 Be sure to watch the following in 1080:
 
-[High Level Software Usage Tutorial Overview](https://www.youtube.com/watch?v=vQQ_wVLecmc) - https://www.youtube.com/watch?v=vQQ_wVLecmc
+[High Level Software Usage Tutorial Overview](https://www.youtube.com/watch?v=vQQ_wVLecmc)
 
 [![Software Usage Tutorial Overview](https://img.youtube.com/vi/vQQ_wVLecmc/hqdefault.jpg)](https://www.youtube.com/watch?v=vQQ_wVLecmc)
 
-[Deep Dive Software Usage, Installation, and Deployment Overview](https://www.youtube.com/watch?v=BuHg84Tldag) - https://www.youtube.com/watch?v=BuHg84Tldag
+[Deep Dive Software Usage, Installation, and Deployment Overview](https://www.youtube.com/watch?v=BuHg84Tldag)
 
 [![Deep Dive Software Usage](https://img.youtube.com/vi/BuHg84Tldag/hqdefault.jpg)](https://www.youtube.com/watch?v=BuHg84Tldag)
 
